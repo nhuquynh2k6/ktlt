@@ -1,0 +1,72 @@
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT\bin\Debug\KTGK_KTLT_new.exe.config
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT\bin\Debug\KTGK_KTLT_new.exe
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT\bin\Debug\KTGK_KTLT_new.pdb
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT\obj\Debug\KTGK_KTLT.csprojResolveAssemblyReference.cache
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT\obj\Debug\KTGK_KTLT_new.frmDe0.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT\obj\Debug\KTGK_KTLT_new.frmDe1.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT\obj\Debug\KTGK_KTLT_new.frmDe2.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT\obj\Debug\KTGK_KTLT_new.frmDe3.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT\obj\Debug\KTGK_KTLT_new.frmDe4.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT\obj\Debug\KTGK_KTLT_new.frmDe5.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT\obj\Debug\KTGK_KTLT_new.frmDe6.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT\obj\Debug\KTGK_KTLT_new.frmDe7.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT\obj\Debug\KTGK_KTLT_new.frmDe8.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT\obj\Debug\KTGK_KTLT_new.frmDe9.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT\obj\Debug\KTGK_KTLT_new.Properties.Resources.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT\obj\Debug\KTGK_KTLT.csproj.GenerateResource.Cache
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT\obj\Debug\KTGK_KTLT_new.exe
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT\obj\Debug\KTGK_KTLT_new.pdb
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\bin\Debug\KTGK_KTLT_new.exe.config
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\bin\Debug\KTGK_KTLT_new.exe
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\bin\Debug\KTGK_KTLT_new.pdb
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe0.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe1.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe2.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe3.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe4.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe5.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe6.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe7.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe8.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe9.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.Properties.Resources.resources
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT.csproj.GenerateResource.Cache
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.exe
+C:\Users\nvcuong\Documents\Visual Studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.pdb
+C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\bin\Debug\KTGK_KTLT_new.exe.config
+C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.exe
+C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.pdb
+C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\bin\Debug\KTGK_KTLT_new.exe
+C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\bin\Debug\KTGK_KTLT_new.pdb
+C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT.csprojResolveAssemblyReference.cache
+C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe0.resources
+C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe1.resources
+C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe2.resources
+C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe3.resources
+C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe4.resources
+C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe5.resources
+C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe6.resources
+C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe7.resources
+C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe8.resources
+C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe9.resources
+C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.Properties.Resources.resources
+C:\Users\nvcuong\Desktop\HK II - 2024-2025\KTLT - HTTT2411 - CNTT2411\KTGK - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Downloads\KTGK - KTLT - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\bin\Debug\KTGK_KTLT_new.exe.config
+C:\Users\LENOVO\Downloads\KTGK - KTLT - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\bin\Debug\KTGK_KTLT_new.exe
+C:\Users\LENOVO\Downloads\KTGK - KTLT - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\bin\Debug\KTGK_KTLT_new.pdb
+C:\Users\LENOVO\Downloads\KTGK - KTLT - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\KTGK - KTLT - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe0.resources
+C:\Users\LENOVO\Downloads\KTGK - KTLT - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe1.resources
+C:\Users\LENOVO\Downloads\KTGK - KTLT - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe2.resources
+C:\Users\LENOVO\Downloads\KTGK - KTLT - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe3.resources
+C:\Users\LENOVO\Downloads\KTGK - KTLT - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe4.resources
+C:\Users\LENOVO\Downloads\KTGK - KTLT - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe5.resources
+C:\Users\LENOVO\Downloads\KTGK - KTLT - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe6.resources
+C:\Users\LENOVO\Downloads\KTGK - KTLT - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe7.resources
+C:\Users\LENOVO\Downloads\KTGK - KTLT - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe8.resources
+C:\Users\LENOVO\Downloads\KTGK - KTLT - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe9.resources
+C:\Users\LENOVO\Downloads\KTGK - KTLT - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\KTGK - KTLT - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\KTGK - KTLT - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\KTGK - KTLT - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.exe
+C:\Users\LENOVO\Downloads\KTGK - KTLT - CNTT2411\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.pdb

@@ -1,0 +1,9 @@
+c:\users\nvcuong\documents\visual studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\bin\Debug\KTGK_KTLT_new.exe.config
+c:\users\nvcuong\documents\visual studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\bin\Debug\KTGK_KTLT_new.exe
+c:\users\nvcuong\documents\visual studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\bin\Debug\KTGK_KTLT_new.pdb
+c:\users\nvcuong\documents\visual studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.csprojResolveAssemblyReference.cache
+c:\users\nvcuong\documents\visual studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.frmDe0.resources
+c:\users\nvcuong\documents\visual studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.Properties.Resources.resources
+c:\users\nvcuong\documents\visual studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.csproj.GenerateResource.Cache
+c:\users\nvcuong\documents\visual studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.exe
+c:\users\nvcuong\documents\visual studio 2015\Projects\DeKTGK_KTLT\KTGK_KTLT_new\obj\Debug\KTGK_KTLT_new.pdb
